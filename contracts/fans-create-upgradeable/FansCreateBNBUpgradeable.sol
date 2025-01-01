@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-import "./FansCreateCoreUpgradeable.sol";
+
 
 // This is the fans.create contract trading with native BNB token
 contract FansCreateBNBUpgradeable is FansCreateCoreUpgradeable {
